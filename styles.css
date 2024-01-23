@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    font-size: 10pt;
+    color: black;
+    font-family: serif;
+}
+main{
+    width: 80%;
+    max-width: 900px;
+    background-image: url(kepek/hatter.png);
+    margin: auto;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+}
+h2{
+    color: orange;
+    font-size: 30px;
+}
+#bevezeto{
+    width: 600px;
+}
+li{
+    list-style-image: url(kepek/bogyo.png);
+}
